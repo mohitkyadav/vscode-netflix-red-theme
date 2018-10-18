@@ -2,7 +2,7 @@
     "name": "netflix-red",
     "displayName": "Netflix Red theme",
     "description": "Netflix Red & Dark theme for Visual Studio Code",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "mky",
     "license": "SEE LICENSE IN LICENSE.md",
     "repository": {

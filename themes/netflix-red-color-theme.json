@@ -23,7 +23,7 @@
 		"debugToolBar.background": "#ff0000",
 		"debugToolBar.border": "#B9090B",
 		"sideBar.background": "#111213",
-		"sideBar.border": "#b9090c2a",
+		"sideBar.border": "#b9090c46",
 		"sideBarSectionHeader.border": "#080808",
 		"sideBarSectionHeader.foreground": "#b9090b",
 		"editorGroup.border": "#b9090c3a",
@@ -43,6 +43,9 @@
 		"menu.separatorBackground": "#000000a4",
 		"menu.background":"#181717",
 		// "menu.background":"#181717a9"
+		"activityBar.background":"#000000",
+		"activityBar.foreground": "#b9090b",
+		"activityBar.border": "#b9090c46",
 	},
 	"tokenColors": [
 		{
