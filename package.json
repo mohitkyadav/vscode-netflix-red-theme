@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Mohit Kumar Yadav",
+                "label": "Netflix Red",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Mohit Kumar Yadav-color-theme.json"
+                "path": "./themes/netflix-red-color-theme.json"
             }
         ]
     }
