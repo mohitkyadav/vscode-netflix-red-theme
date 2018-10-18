@@ -1,0 +1,22 @@
+{
+    "name": "netflix-red",
+    "displayName": "netflix-red",
+    "description": "Netflix Red & Dark theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "mky",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mohit Kumar Yadav",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mohit Kumar Yadav-color-theme.json"
+            }
+        ]
+    }
+}
