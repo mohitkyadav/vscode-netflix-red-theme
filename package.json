@@ -4,6 +4,7 @@
     "description": "Netflix Red & Dark theme for Visual Studio Code",
     "version": "0.0.1",
     "publisher": "mky",
+    "repository": "https://github.com/mohitkyadav/vscode-netflix-red-theme",
     "engines": {
         "vscode": "^1.28.0"
     },

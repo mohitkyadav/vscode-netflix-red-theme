@@ -1,5 +1,5 @@
 node_modules
-*.vsix
+.vsix
 .vscode/**
 .vscode-test/**
 .gitignore
