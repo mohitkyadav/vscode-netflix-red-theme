@@ -2,12 +2,21 @@
     "name": "netflix-red",
     "displayName": "Netflix Red theme",
     "description": "Netflix Red & Dark theme for Visual Studio Code",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "mky",
-    "license": "SEE LICENSE IN LICENSE.md",
+    "license": "MIT",
+    "author": "Mohit Kumar Yadav [@mohitkyadav]",
+    "galleryBanner": {
+        "color": "#11131C",
+        "theme": "dark"
+    },
+    "homepage": "https://github.com/mohitkyadav",
     "repository": {
         "type": "git",
         "url": "https://github.com/mohitkyadav/vscode-netflix-red-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/mohitkyadav/vscode-netflix-red-theme/issues"
     },
     "icon": "net-red.png",
     "engines": {
