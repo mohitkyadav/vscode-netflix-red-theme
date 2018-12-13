@@ -46,7 +46,7 @@
 		"statusBar.debuggingBackground": "#3dad10",
 		"menu.selectionBackground": "#b9090c59",
 		"menu.separatorBackground": "#000000a4",
-		"menu.background":"#181717",
+		"menu.background":"#ffffff00",
 		// "menu.background":"#181717a9"
 		"activityBar.background":"#000000",
 		"activityBar.foreground": "#b9090b",
