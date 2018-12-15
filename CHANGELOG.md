@@ -21,3 +21,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.5
 - transparent suggestion box
 - less red stuff 😅
+
+## 0.0.6
+- Settings
+- Notification
+- less reddish
