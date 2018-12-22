@@ -1,0 +1,7 @@
+# coafile for this project
+# Fix errors using: coala --apply-patches -n
+
+# JavaScript
+[happiness]
+files = **/*.js
+bears = HappinessLintBear
